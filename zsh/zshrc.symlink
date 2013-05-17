@@ -33,7 +33,7 @@ fi
 #  modular                             #
 # #################################### #
 
-export DEFAULT_USER=cmiller
+export DEFAULT_USER=JMcAfreak
 source ~/.antigen/antigen.zsh
 antigen-lib
 antigen-bundle git

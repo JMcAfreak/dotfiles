@@ -1,8 +1,11 @@
-# NSError's Dotfiles
+# JMcAfreaks's Dotfiles
 
 Largely pilfered from [skwp][skwp-dotfiles] and
 [holman][holman-dotfiles]'s dotfiles. In fact, the whole rakefile is
-holman's.
+holman's. Also from [NSError][dotfiles] - mostly because I'm too lazy to write
+some myself. I'm customizing it for my username, or perhaps even for other
+people to use. If that's the case, I'll change this README much more heavily
+than just this.
 
 These are my dotfiles. I do not maintain these at a high enough level of
 standard to support other people trying to use this. You're welcome to
@@ -27,8 +30,7 @@ order anyway:
   * If still behind that freakin annoying work firewall, install
     `corkscrew`
 * Set default shell to ZSH
-* Install my SSH keys (they should be floating around Dropbox
-  somewhere...)
+* Install SSH keys (I sure hope you know how to do this!)
 * SSH to some server to put the auth in Keychain (for no more annoying
   'type the password for `id_rsa`)
 
@@ -87,7 +89,7 @@ Install iTerm2. In Preferences > General under the Preferences
 sub-heading, check "Load preferences from a user-defined folder or URL:"
 and then set that folder or URL to:
 
-    /Users/cmiller/.dotfiles/iTerm2
+    /Users/JMcAfreak/.dotfiles/iTerm2
 
 Obviously you'll want to mangle that based on the local username. Reload
 iTerm2, and everything should be exactly as it should be. Fun, no?
@@ -97,3 +99,4 @@ If the theme doesn't come on over, try installing [Liquid Carbon][lq].
 [skwp-dotfiles]: https://github.com/skwp/dotfiles
 [holman-dotfiles]: https://github.com/holman/dotfiles
 [lq]: https://github.com/markcho/iTerm2_LiquidCarbon
+[dotfiles]: https://github.com/NSError/dotfiles

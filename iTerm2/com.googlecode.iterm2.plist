@@ -1239,7 +1239,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/cmiller</string>
+			<string>/Users/JMcAfreak</string>
 		</dict>
 	</array>
 	<key>NoSyncNeverRemindPrefsChangesCopy</key>
@@ -1290,7 +1290,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/cmiller/.dotfiles/iTerm2</string>
+	<string>/Users/JMcAfreak/.dotfiles/iTerm2</string>
 	<key>PromptOnClose</key>
 	<true/>
 	<key>PromptOnQuit</key>

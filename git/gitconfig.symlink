@@ -1,11 +1,11 @@
 [color]
   ui = true
 [user]
-	name = Chris Miller
-	email = lordsauronthegreat@gmail.com
+	name = Jerich McAfee
+	email = linktopast30@gmail.com
 [core]
 	editor=`which vim` # "mvim -f --nomru -c \"au VimLeave * !open -a Terminal\""
-	excludesfile = /Users/cmiller/.gitignore_global
+	excludesfile = /Users/JMcAfreak/.gitignore_global
 [push]
   default = tracking
 [difftool "sourcetree"]
