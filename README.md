@@ -43,7 +43,7 @@ Clone this here repo to `~/.dotfiles` or somewhere nice and quiet.
 Remember to add `--recursive` and `--recursive-submodules` or you'll
 have to thunk around with Janus a lot more than should be necessary.
 
-    git clone --recursive git@github.com:NSError/dotfiles.git ~/.dotfiles
+    git clone --recursive git@github.com:JMcAfreak/dotfiles.git ~/.dotfiles
 
 # Step 3: Secrets
 
@@ -54,7 +54,7 @@ something like this:
     export GIT_AUTHOR_EMAIL=''
     export GIT_COMMITTER_NAME=''
     export GIT_COMMITTER_EMAIL=''
-    export GITHUB_USER='NSError'
+    export GITHUB_USER='JMcAfreak'
     export GITHUB_TOKEN=wtf was this?
 
 # Step 4: Vim!
@@ -99,4 +99,4 @@ If the theme doesn't come on over, try installing [Liquid Carbon][lq].
 [skwp-dotfiles]: https://github.com/skwp/dotfiles
 [holman-dotfiles]: https://github.com/holman/dotfiles
 [lq]: https://github.com/markcho/iTerm2_LiquidCarbon
-[dotfiles]: https://github.com/NSError/dotfiles
+[dotfiles]: https://github.com/JMcAfreak/dotfiles
